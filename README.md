@@ -7,19 +7,19 @@ Empirical AI safety research focused on mechanistic interpretability, scalable o
 
 ## 🔬 Key Research Projects
 
-### 1. SHEAR: Sparse Autoencoders for Mechanistic Interpretability
+### 1. SHEAR: Sparse Autoencoders for Mechanistic Interpretability [WORK IN PROGRESS]
 A novel framework using Sparse Autoencoders (SAEs) to disentangle and scrub spurious shortcuts from frozen foundation model embeddings. Directly addresses model internals understanding and alignment.
 
 📄 **Paper:** [Google Drive Link](https://drive.google.com/file/d/1n2Bxu0Uj1f8KWvJom0qsdZNtXDC7_j-L/view?usp=sharing)
 
-*To be submitted at ACL 2027*
+*Aimed at ACL 2027 but not submitted yet*
 
 ### 2. LUCID: Statistically Grounded Self-Correction for LLM Reasoning
 A framework for scalable oversight using design-based supervised learning (DSL) to enable statistically grounded self-correction in LLM reasoning evaluation.
 
 📄 **Paper:** [Google Drive Link](https://drive.google.com/file/d/1iS7Awg4xTKnnZg_T6UzVX6Zvctsb0Bhc/view?usp=sharing)
 
-*Under review at EACL 2027 with promising scores in reviews and the metareview*
+*Under review at EACL 2027*
 
 ### 3. Agent Verifiers in Counterfactual Analysis
 A pilot study benchmarking agentic heterogeneous treatment effects, developing verification protocols for agentic causal inference.
